@@ -1,7 +1,9 @@
 baseurl      = "https://pxlwrk.de"
-title        = "pxlwrk"
+title        = "PXLWRK"
 languageCode = "de-de"
 theme        = "hello-friend-ng"
+
+defaultContentLanguage = "de"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -25,11 +27,11 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = true
+enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = true
-disableSitemap = false
+disableSitemap = true
 disable404     = false
 disableHugoGeneratorInject = false
 
@@ -82,7 +84,7 @@ lastModDisplay = "[your display text]"
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
@@ -112,15 +114,13 @@ lastModDisplay = "[your display text]"
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
-    rss = true
+    trademark = false
+    rss = false
     copyright = false
     author = false
 
-    topText = []
-    bottomText = [
-      "Made with &#10084; in Berlin"
-    ]
+    bottomText = ["Made with &#10084; in Berlin"]
+    topText = ['<a href="/imprint">Impressum</a>','<a href="https://calendly.com/pxlwrk">Termin vereinbaren</a>']
 
   # Colors for favicons
   #
@@ -131,7 +131,7 @@ lastModDisplay = "[your display text]"
 
   [params.logo]
     logoMark     = "$"
-    logoText     = " press start"
+    logoText     = " press:start"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -154,9 +154,9 @@ lastModDisplay = "[your display text]"
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-     path     = "/images/emoji-andre.png"
+     path     = "/images/logo-squared.jpg"
      alt      = "André Geier"
-     maxWidth = "100px"
+     maxWidth = "200px"
 
   # Social icons
   [[params.social]]
@@ -170,6 +170,10 @@ lastModDisplay = "[your display text]"
   [[params.social]]
     name = "github"
     url  = "https://github.com/distantbit"
+
+  [[params.social]]
+    name = "threema"
+    url  = "https://threema.id/86PSWXB5"
 
 [languages]
   [languages.en]
@@ -185,16 +189,21 @@ lastModDisplay = "[your display text]"
 [menu]
   [[menu.main]]
     identifier = "we"
-    name       = "Wir"
+    name       = "./Wir"
     url        = "we/"
     weight     = 1
   [[menu.main]]
-    identifier = "what"
-    name       = "Was"
-    url        = "what/"
+    identifier = "develop"
+    name       = "./Entwickeln"
+    url        = "develop/"
     weight     = 2
   [[menu.main]]
+    identifier = "solutions"
+    name       = "./Lösungen"
+    url        = "solutions/"
+    weight     = 3
+  [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "../Blog"
     url        = "https://blog.pxlwrk.de"
     weight     = 9

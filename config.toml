@@ -1,4 +1,4 @@
-baseurl      = "https://pxlwrk.de"
+baseurl      = "https://www.pxlwrk.de"
 title        = "PXLWRK"
 languageCode = "de-de"
 theme        = "hello-friend-ng"
@@ -173,7 +173,11 @@ lastModDisplay = "[your display text]"
 
   [[params.social]]
     name = "threema"
-    url  = "https://threema.id/86PSWXB5"
+    url  = "https://threema.id/86PSWXB5"  
+  
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/company/pxlwrk"
 
 [languages]
   [languages.en]

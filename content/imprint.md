@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 date: 2022-06-30T22:18:09+02:00
-draft: true
+draft: false
 ---
 
 **Angaben gem. § 5 TMG:**

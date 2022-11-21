@@ -1,4 +1,4 @@
-baseurl      = "https://www.pxlwrk.de"
+baseurl      = "https://pxlwrk.de"
 title        = "PXLWRK"
 languageCode = "de-de"
 theme        = "hello-friend-ng"
@@ -35,10 +35,10 @@ disableSitemap = true
 disable404     = false
 disableHugoGeneratorInject = false
 
-lastModDisplay = "[your display text]"
+lastModDisplay = "Update:"
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:year/:title/"
 
 [author]
   name = "Andre Geier"
@@ -59,13 +59,13 @@ lastModDisplay = "[your display text]"
 
   # Metadata mostly used in document's head
   # 
-  description = "agentur für sensitive digitalisierung"
+  description = "Agentur für sensitive Digitalisierung."
   keywords = "digitalisierung"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "wir entwickeln lösungen"
+  homeSubtitle = "Wir. Entwickeln. Lösungen."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -109,6 +109,8 @@ lastModDisplay = "[your display text]"
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
   justifyContent = false  # Set "text-align: justify" to .post-content.
+
+  useRelativeCover = true
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -169,7 +171,7 @@ lastModDisplay = "[your display text]"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/distantbit"
+    url  = "https://github.com/pxlwrk"
 
   [[params.social]]
     name = "threema"
@@ -210,4 +212,4 @@ lastModDisplay = "[your display text]"
     identifier = "blog"
     name       = "../Blog"
     url        = "https://blog.pxlwrk.de"
-    weight     = 9
+    weight     = 4

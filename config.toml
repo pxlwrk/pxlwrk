@@ -162,10 +162,6 @@ lastModDisplay = "Update:"
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/distantbit"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:hallo@pxlwrk.de"
 

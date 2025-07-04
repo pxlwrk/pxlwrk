@@ -8,7 +8,7 @@ defaultContentLanguage = "de"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+pagerSize  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -40,7 +40,7 @@ lastModDisplay = "Update:"
 [permalinks]
   posts = "/posts/:year/:title/"
 
-[author]
+[params.Site.author]
   name = "Andre Geier"
 
 [blackfriday]
@@ -59,13 +59,13 @@ lastModDisplay = "Update:"
 
   # Metadata mostly used in document's head
   # 
-  description = "Agentur für sensitive Digitalisierung."
-  keywords = "digitalisierung"
+  description = "PXLWRK - Ich begleite Transformationen."
+  keywords = "digitalisierung,transformation,keynote,serious play,coaching,consulting,care"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Wir. Entwickeln. Lösungen."
+  homeSubtitle = "Ich begleite Transformationen."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -157,7 +157,7 @@ lastModDisplay = "Update:"
   #
   [params.portrait]
      path     = "/images/logo-squared.jpg"
-     alt      = "André Geier"
+     alt      = "PXLWRK"
      maxWidth = "200px"
 
   # Social icons
@@ -179,33 +179,33 @@ lastModDisplay = "Update:"
 
 [languages]
   [languages.en]
-    subtitle  = "we develop solutions"
+    subtitle  = "i companion transformations"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.de]
-    subtitle  = "wir entwickeln lösungen"
+    subtitle  = "Ich begleite Tranformationen."
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
-    identifier = "we"
-    name       = "./Wir"
-    url        = "we/"
+    identifier = "a1"
+    name       = "Über mich"
+    url        = "ueber/"
     weight     = 1
   [[menu.main]]
-    identifier = "develop"
-    name       = "./Entwickeln"
-    url        = "develop/"
+    identifier = "b2"
+    name       = "Speaker"
+    url        = "talks/"
     weight     = 2
   [[menu.main]]
-    identifier = "solutions"
-    name       = "./Lösungen"
-    url        = "solutions/"
+    identifier = "c3"
+    name       = "Spielraum"
+    url        = "spielraum/"
     weight     = 3
   [[menu.main]]
-    identifier = "blog"
+    identifier = "d4"
     name       = "../Blog"
     url        = "https://blog.pxlwrk.de"
     weight     = 4

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WorkshopHost on PXLWRK</title>
+    <link>https://pxlwrk.de/tags/workshophost/</link>
+    <description>Recent content in WorkshopHost on PXLWRK</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 20:32:24 +0200</lastBuildDate>
+    <atom:link href="https://pxlwrk.de/tags/workshophost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über mich</title>
+      <link>https://pxlwrk.de/ueber/</link>
+      <pubDate>Sun, 26 Jun 2022 20:32:24 +0200</pubDate>
+      <guid>https://pxlwrk.de/ueber/</guid>
+      <description>&lt;img src=&#34;https://pxlwrk.de/images/geier_beige.jpg&#34;  alt=&#34;Profil Andre Geier&#34;  class=&#34;center&#34;  style=&#34;border-radius: 50%; width: 25%&#34;  /&gt;&#xA;&#xA;&#xA;&lt;p&gt;Hi, ich bin André, Gründer von &lt;strong&gt;PXLWRK&lt;/strong&gt;, Agiler Coach in Ausbildung, leidenschaftlicher Workshop-Host, Speaker und diplomierter Informatiker mit einem Herz für Mensch und die öffentliche Verwaltung.&lt;/p&gt;&#xA;&lt;p&gt;Mein Weg führte mich vom Netzwerkforensiker beim LKA über die IT-Leitung in der Bundesverwaltung bis zur herausfordernden Position als CTO im Bundeswirtschaftsministerium. Heute begleite ich Menschen und Organisationen dabei, Komplexität greifbar zu machen mit Coaching, klarer Kommunikation und einem kreativen Werkzeugkasten, der unter anderem LEGO® Serious Play®, agile Methoden und realistische Perspektiven vereint.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

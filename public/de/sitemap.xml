@@ -2,23 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pxlwrk.de/imprint/</loc>
-    <lastmod>2022-06-30T22:18:09+02:00</lastmod>
-  </url><url>
-    <loc>https://pxlwrk.de/tags/beratung/</loc>
-    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
-  </url><url>
-    <loc>https://pxlwrk.de/tags/coaching/</loc>
-    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
-  </url><url>
-    <loc>https://pxlwrk.de/tags/digitaliserung/</loc>
-    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
-  </url><url>
-    <loc>https://pxlwrk.de/solutions/</loc>
-    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
-  </url><url>
     <loc>https://pxlwrk.de/</loc>
-    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+    <lastmod>2023-01-08T20:35:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,10 +15,28 @@
                 href="https://pxlwrk.de/"
                 />
   </url><url>
-    <loc>https://pxlwrk.de/tags/schulung/</loc>
+    <loc>https://pxlwrk.de/imprint/</loc>
+    <lastmod>2022-06-30T22:18:09+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/agilercoach/</loc>
     <lastmod>2022-06-30T22:17:08+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/tags/speaker/</loc>
+    <loc>https://pxlwrk.de/tags/digitalezukunft/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/innovation%C3%B6ffentlicherdienst/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/kulturwandel/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/legoseriousplay/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/newwork/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/speakerverwaltung/</loc>
     <lastmod>2022-06-30T22:17:08+02:00</lastmod>
   </url><url>
     <loc>https://pxlwrk.de/tags/</loc>
@@ -49,7 +52,16 @@
                 href="https://pxlwrk.de/tags/"
                 />
   </url><url>
-    <loc>https://pxlwrk.de/tags/workshop/</loc>
+    <loc>https://pxlwrk.de/tags/teamresilienz/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/transformation/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/talks/</loc>
+    <lastmod>2022-06-30T22:17:08+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/zukunftgestalten/</loc>
     <lastmod>2022-06-30T22:17:08+02:00</lastmod>
   </url><url>
     <loc>https://pxlwrk.de/tags/change-management/</loc>
@@ -70,25 +82,31 @@
     <loc>https://pxlwrk.de/tags/modern-workplace/</loc>
     <lastmod>2022-06-26T23:41:29+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/tags/transformation/</loc>
+    <loc>https://pxlwrk.de/spielraum/</loc>
     <lastmod>2022-06-26T23:41:29+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/develop/</loc>
-    <lastmod>2022-06-26T23:41:29+02:00</lastmod>
-  </url><url>
-    <loc>https://pxlwrk.de/tags/berlin/</loc>
+    <loc>https://pxlwrk.de/tags/ctobundesverwaltung/</loc>
     <lastmod>2022-06-26T20:32:24+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/we/</loc>
+    <loc>https://pxlwrk.de/tags/digitaletransformation/</loc>
     <lastmod>2022-06-26T20:32:24+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/tags/kundenzentrierung/</loc>
+    <loc>https://pxlwrk.de/tags/informatiker/</loc>
     <lastmod>2022-06-26T20:32:24+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/tags/networking/</loc>
+    <loc>https://pxlwrk.de/tags/kreativemethoden/</loc>
     <lastmod>2022-06-26T20:32:24+02:00</lastmod>
   </url><url>
-    <loc>https://pxlwrk.de/tags/refocus/</loc>
+    <loc>https://pxlwrk.de/tags/pxlwrk/</loc>
+    <lastmod>2022-06-26T20:32:24+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/teamcoaching/</loc>
+    <lastmod>2022-06-26T20:32:24+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/ueber/</loc>
+    <lastmod>2022-06-26T20:32:24+02:00</lastmod>
+  </url><url>
+    <loc>https://pxlwrk.de/tags/workshophost/</loc>
     <lastmod>2022-06-26T20:32:24+02:00</lastmod>
   </url><url>
     <loc>https://pxlwrk.de/categories/</loc>

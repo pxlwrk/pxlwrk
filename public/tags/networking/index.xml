@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking on PXLWRK</title>
-    <link>https://pxlwrk.de/tags/networking/</link>
+    <link>http://localhost:1313/tags/networking/</link>
     <description>Recent content in Networking on PXLWRK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <generator>Hugo</generator>
+    <language>de</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 26 Jun 2022 20:32:24 +0200</lastBuildDate><atom:link href="https://pxlwrk.de/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 20:32:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Die Besten Lösungen entstehen im Herzen von Berlin.</title>
-      <link>https://pxlwrk.de/we/</link>
+      <title>Über mich</title>
+      <link>http://localhost:1313/ueber/</link>
       <pubDate>Sun, 26 Jun 2022 20:32:24 +0200</pubDate>
-      
-      <guid>https://pxlwrk.de/we/</guid>
-      <description>Hier schlägt der digitale Puls. Seit über 30 Jahren verfolgen wir die Tech- und Startup Szene in der Stadt und fühlen uns nach wie vor eng verbunden. Dabei versuchen wir immer, ein Stück mitzugestalten und unseren Fußabdruck zu hinterlassen.
-Nicht einer unter vielen. Wir bieten nicht die eine Lösung für alles an, die gibt es nicht. Viel mehr gehen wir auf Ihre Bedürfnisse ein und hören zu. In den meisten Fällen werden bereits in den ersten Gesprächen viele Themen anders bewertet.</description>
+      <guid>http://localhost:1313/ueber/</guid>
+      <description>&lt;p&gt;Hi, ich bin André, Gründer von &lt;strong&gt;PXLWRK&lt;/strong&gt;, Agiler Coach in Ausbildung, leidenschaftlicher Workshop-Host, Speaker und diplomierter Informatiker mit einem Herz für Mensch und die öffentliche Verwaltung.&lt;/p&gt;&#xA;&lt;p&gt;Mein Weg führte mich vom Netzwerkforensiker beim LKA über die IT-Leitung in der Bundesverwaltung bis zur strategischen Position als CTO. Heute begleite ich Menschen und Organisationen dabei, Komplexität greifbar zu machen mit Coaching, klarer Kommunikation und einem kreativen Werkzeugkasten, der unter anderem LEGO® Serious Play®, agile Methoden und realistische Perspektiven vereint.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

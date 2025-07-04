@@ -2,22 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digitaliserung on PXLWRK</title>
-    <link>https://pxlwrk.de/tags/digitaliserung/</link>
+    <link>http://localhost:1313/tags/digitaliserung/</link>
     <description>Recent content in Digitaliserung on PXLWRK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <generator>Hugo</generator>
+    <language>de</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 30 Jun 2022 22:17:08 +0200</lastBuildDate><atom:link href="https://pxlwrk.de/tags/digitaliserung/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 22:17:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digitaliserung/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ein breites Leistungsspektrum wartet auf Sie.</title>
-      <link>https://pxlwrk.de/solutions/</link>
+      <title>Vorträge und Panels</title>
+      <link>http://localhost:1313/talks/</link>
       <pubDate>Thu, 30 Jun 2022 22:17:08 +0200</pubDate>
-      
-      <guid>https://pxlwrk.de/solutions/</guid>
-      <description>Ob globales Unternehmen oder Start-Up, wir bieten unsere Leistungen den Menschen an, die sie auch benötigen. Wir haben keine Berührungsängste und sprechen mit Top-Managern und Einzelkämpfern.
-Beratung Sie haben eine konkrete Herausforderung? Wir gehen mit Ihnen mögliche Lösungsansätze durch und diskutieren gemeinsam mit den jeweiligen Ansprechpartnern, wie wir die gestellten Ziele erreichen können. Anschließend erstellen wir gern ein passendes Konzept.
-Konzeption Papier ist geduldig. Unsere Konzepte geben Ihnen aber einen konkreten Fahrplan, um Ihre Herausforderungen anzugehen.</description>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Zukunft beginnt im Kopf. Und manchmal mit einem Baustein.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ich bin André. Diplomierter Informatiker, CTO in der Bundesverwaltung, agiler Coach in Ausbildung und Gründer von PXLWRK. Ich liebe es, komplexe Themen verständlich zu machen und Menschen für Veränderung zu begeistern.&lt;/p&gt;&#xA;&lt;p&gt;In meinen Vorträgen geht es um mehr als Buzzwords. Ich spreche über echte Transformation. Darüber, wie digitale Kultur entsteht. Wie wir in Organisationen nicht nur Technik, sondern Haltung verändern. Und warum spielerisches Denken oft der Schlüssel zu nachhaltigem Wandel ist.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

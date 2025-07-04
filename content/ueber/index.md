@@ -21,7 +21,7 @@ tags: [
 
 Hi, ich bin André, Gründer von **PXLWRK**, Agiler Coach in Ausbildung, leidenschaftlicher Workshop-Host, Speaker und diplomierter Informatiker mit einem Herz für Mensch und die öffentliche Verwaltung.
 
-Mein Weg führte mich vom Netzwerkforensiker beim LKA über die IT-Leitung in der Bundesverwaltung bis zur herausfordernden Position als CTO im Bundeswirtschaftsministerium. Heute begleite ich Menschen und Organisationen dabei, Komplexität greifbar zu machen mit Coaching, klarer Kommunikation und einem kreativen Werkzeugkasten, der unter anderem LEGO® Serious Play®, agile Methoden und realistische Perspektiven vereint.
+Mein Weg führte mich vom Netzwerkforensiker beim LKA über die IT-Leitung in der Bundesverwaltung bis zur herausfordernden Position als CTO im Bundeswirtschaftsministerium. Heute begleite ich Menschen und Organisationen dabei, Komplexität greifbar zu machen mit Coaching, klarer Kommunikation und einem kreativen Werkzeugkasten, der unter anderem Serious Play, agile Methoden und realistische Perspektiven vereint.
 
 Ich glaube: Zukunft passiert nicht durch neue Tools, sondern durch neue Gespräche. Deshalb stehe ich nicht nur in Workshop-Räumen, sondern auch auf Bühnen. In meinen Vorträgen und Panelbeiträgen spreche ich über Themen wie:
 

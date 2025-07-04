@@ -20,14 +20,14 @@ Ich bin André. Diplomierter Informatiker, CTO in der Bundesverwaltung, agiler C
 
 In meinen Vorträgen geht es um mehr als Buzzwords. Ich spreche über echte Transformation. Darüber, wie digitale Kultur entsteht. Wie wir in Organisationen nicht nur Technik, sondern Haltung verändern. Und warum spielerisches Denken oft der Schlüssel zu nachhaltigem Wandel ist.
 
-Ich komme aus der Praxis. Aus Systemen, in denen Wandel schwer ist. Und genau deshalb weiß ich, was wirkt. Ich spreche offen, mit Klarheit, mit Haltung. Und manchmal mit einem Modell aus LEGO®, das mehr sagt als hundert Folien.
+Ich komme aus der Praxis. Aus Systemen, in denen Wandel schwer ist. Und genau deshalb weiß ich, was wirkt. Ich spreche offen, mit Klarheit, mit Haltung. Und manchmal mit einem Modell aus Klemmbausteinen, das mehr sagt als hundert Folien.
 
 ### Themen, über die ich spreche
 
 * New Work in der öffentlichen Verwaltung
 * Teamresilienz in unsicheren Zeiten
 * Agilität ohne Theater
-* Spielend denken mit LEGO® Serious Play®
+* Spielend denken mit Klemmbausteinen
 * IT als Kulturkraft im Unternehmen
 * Mut zu echter Veränderung
 

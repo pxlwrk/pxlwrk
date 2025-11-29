@@ -177,17 +177,6 @@ lastModDisplay = "Update:"
     name = "linkedin"
     url  = "https://linkedin.com/company/pxlwrk"
 
-[languages]
-  [languages.en]
-    subtitle  = "i companion transformations"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.de]
-    subtitle  = "Ich begleite Tranformationen."
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
 [menu]
   [[menu.main]]
     identifier = "a1"
